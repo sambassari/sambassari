@@ -161,6 +161,26 @@ Replace with your pinned repos or add links like:
 <!-- Uncomment after the snake workflow runs once (Actions → Generate Snake Animation) -->
 <!-- <img src="https://raw.githubusercontent.com/sambassari/sambassari/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" /> -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorPair=0d1117,58A6FF&height=100&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=24&fontColor=c9d1d9&animation=twinkling" alt="Footer" />
+<pre>
+<code>
+01011010 01100101 01110010 01101111 00101101 01101111 01101110 01100101 00101100 00101110 00101110 00101110
+10100101 01011010 01100101 01110010 01101111 00101101 01101111 01101110 01100101 00101110 00101110 00101110
+▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░▓░
+
+╔══════════════════════════════════════════════════════════════╗
+║  0xEOF  ·  end of stream                                      ║
+║                                                              ║
+║  root@sambassari:~# echo $STATUS                             ║
+║  > payload delivered · trace clean · session closed          ║
+║                                                              ║
+║  root@sambassari:~# exit                                     ║
+║  > logout successful. see you in the next deploy.            ║
+╚══════════════════════════════════════════════════════════════╝
+
+01001000 01000001 01001100 01010100 01010011 01001001 01000111 01001110 01000001 01001100 00100000 01000011 01001111 01001101 01010000 01001100 01000101 01010100 01000101
+░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░ ░▒▓█▓▒░
+01011010 01100101 01110010 01101111 00101101 01101111 01101110 01100101 00101100 00101110 00101110 00101110  // EOT
+</code>
+</pre>
 
 </div>
