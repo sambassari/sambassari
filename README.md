@@ -8,24 +8,24 @@
       ██║  ██║ ██╔══╝   ╚██╗ ██╔╝ ██║   ██║ ██╔═══╝   ╚═══██╗
       ██████╔╝ ██████╗   ╚████╔╝  ╚██████╔╝ ██║      ██████╔╝
       ╚═════╝  ╚═════╝    ╚═══╝    ╚═════╝  ╚═╝      ╚═════╝
-                    // SRE · INFRA · AI AGENTS //
+                    // SOFTWARE · SRE · AI AGENTS //
 
 ╔══════════════════════════════════════════════════════════╗
 ║  root@sambassari:~# whoami                               ║
-║  > sam — devops / sre engineer                           ║
+║  > sam — software engineer · devops / sre                ║
 ║                                                          ║
-║  root@sambassari:~# cat /etc/role                        ║
-║  > building software & autonomous agents                 ║
+║  root@sambassari:~# cat /etc/builds                      ║
+║  > apps · websites · apis · ai agents                    ║
 ║                                                          ║
 ║  root@sambassari:~# uptime                               ║
-║  > automating everything. breaking nothing (in prod).    ║
+║  > ship fast. observe everything. break staging, not prod. ║
 ╚══════════════════════════════════════════════════════════╝
 </code>
 </pre>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sam+%F0%9F%91%8B;DevOps+%2F+SRE+Engineer;Building+Software+%26+AI+Agents;Automating+Everything+That+Moves" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sam+%F0%9F%91%8B;Software+Engineer+%26+SRE;Building+Apps%2C+Websites+%26+AI+Agents;Ship+Fast.+Observe+Everything." alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -41,23 +41,33 @@
 
 ```yaml
 name: Sam
-role: DevOps / SRE Engineer
-currently: Building software & AI agents
-focus:
-  - Infrastructure as Code
-  - CI/CD pipelines & platform reliability
-  - Observability (metrics, logs, traces)
-  - LLM-powered agents & automation
+title: Software Engineer · DevOps / SRE
+builds:
+  - Web apps & websites
+  - Backend services & APIs
+  - AI agents & automation tooling
+mindset:
+  - Uptime, observability, and safe deploys
+  - CI/CD, IaC, and platform reliability
 fun_fact: I turn "it works on my machine" into "it works in prod"
 ```
 
-I'm an **SRE at heart** — I care about uptime, observability, and shipping safely. Lately I've been crossing over into **application development** and **AI agents**, wiring together the reliability patterns I know with the speed of modern tooling.
+I'm a **software engineer** who builds **apps, websites, APIs, and AI agents** — with an **SRE at heart**. I care about uptime, observability, and shipping safely, whether it's a product users touch every day or the pipeline behind it.
+
+I bring **reliability patterns** to **application development**: the same rigor I apply to infra, wired into modern tooling and fast iteration. Landing pages, full-stack apps, agent workflows — if it ships, it should be observable, repeatable, and boring in prod.
 
 When I'm not on-call, you'll find me tinkering with agents, refining deploy pipelines, or breaking things in staging so prod stays boring.
 
 ---
 
 ### Tech Stack
+
+**Web & Apps**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Platform & Cloud**
 
@@ -111,10 +121,10 @@ When I'm not on-call, you'll find me tinkering with agents, refining deploy pipe
 
 ### What I'm Up To
 
-- 🔧 Hardening **CI/CD** pipelines and making deploys boring (in a good way)
-- 🤖 Building **AI agents** that actually do useful work — not just demos
-- 📦 Shipping **software** with the same rigor I apply to infra
-- 📈 Obsessing over **SLOs**, runbooks, and blameless postmortems
+- 🌐 Building **web apps & websites** — from UI to deploy
+- 🤖 Shipping **AI agents** and tools that do real work, not just demos
+- 🔧 Hardening **CI/CD** pipelines so releases stay boring (in a good way)
+- 📈 Chasing **SLOs**, runbooks, and blameless postmortems
 
 ---
 
