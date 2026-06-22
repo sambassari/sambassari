@@ -1,37 +1,22 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:1a1a1a&height=80&section=header&text=sambassari&fontSize=42&fontColor=ffffff&animation=scaleIn" alt="sambassari" />
+
 <pre>
 <code>
-      ██████╗  ██████╗  ██╗   ██╗  ██████╗  ██████╗   ██████╗
-      ██╔══██╗ ██╔════╝ ██╗   ██╗ ██╔═══██╗ ██╔══██╗ ██╔════╝
-      ██║  ██║ █████╗   ██╗   ██╗ ██║   ██║ ██████╔╝ ╚█████╗
-      ██║  ██║ ██╔══╝   ╚██╗ ██╔╝ ██║   ██║ ██╔═══╝   ╚═══██╗
-      ██████╔╝ ██████╗   ╚████╔╝  ╚██████╔╝ ██║      ██████╔╝
-      ╚═════╝  ╚═════╝    ╚═══╝    ╚═════╝  ╚═╝      ╚═════╝
-                    // SOFTWARE · SRE · AI AGENTS //
-
-╔══════════════════════════════════════════════════════════╗
-║  root@sambassari:~# whoami                               ║
-║  > sam — software engineer · devops / sre                ║
-║                                                          ║
-║  root@sambassari:~# cat /etc/builds                      ║
-║  > apps · websites · apis · ai agents                    ║
-║                                                          ║
-║  root@sambassari:~# uptime                               ║
-║  > ship fast. observe everything. break staging, not prod. ║
-╚══════════════════════════════════════════════════════════╝
+┌────────────────────────────────────────┐
+│  sambassari                            │
+│  software engineer · devops / sre      │
+│  apps · websites · apis · ai agents    │
+└────────────────────────────────────────┘
 </code>
 </pre>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Sam+%F0%9F%91%8B;Software+Engineer+%26+SRE;Building+Apps%2C+Websites+%26+AI+Agents;Ship+Fast.+Observe+Everything." alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+apps%2C+websites+%26+AI+agents;Ship+fast.+Observe+everything." alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
-<!-- Profile views -->
-<img src="https://komarev.com/ghpvc/?username=sambassari&label=Profile%20views&color=58A6FF&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=sambassari&label=views&color=ffffff&labelColor=000000&color=000000&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -64,47 +49,47 @@ When I'm not on-call, you'll find me tinkering with agents, refining deploy pipe
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
 
 **Backend**
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=white)
 
 **Cloud & Infra**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-000000?style=flat-square&logo=google-cloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=white)
 
 **IaC & Config**
 
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-000000?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible&logoColor=white)
 
 **CI/CD & Monitoring**
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=github-actions&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-000000?style=flat-square&logo=argo&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-000000?style=flat-square&logo=grafana&logoColor=white)
 
 **AI & Agents**
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 
 ---
 
@@ -112,12 +97,12 @@ When I'm not on-call, you'll find me tinkering with agents, refining deploy pipe
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sambassari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="GitHub stats" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=sambassari&theme=tokyonight&hide_border=true&background=0d1117&stroke=30363d&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sambassari&show_icons=true&theme=gray&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=cccccc" alt="GitHub stats" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=sambassari&theme=dark&hide_border=true&background=000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=cccccc&dates=666666" alt="GitHub streak" />
 
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambassari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sambassari&layout=compact&theme=gray&hide_border=true&bg_color=000000&title_color=ffffff&text_color=cccccc" alt="Top languages" />
 
 </div>
 
@@ -125,10 +110,10 @@ When I'm not on-call, you'll find me tinkering with agents, refining deploy pipe
 
 ### What I'm Up To
 
-- 🌐 Building **web apps & websites** — from UI to deploy
-- 🤖 Shipping **AI agents** and tools that do real work, not just demos
-- 🔧 Hardening **CI/CD** pipelines so releases stay boring (in a good way)
-- 📈 Chasing **SLOs**, runbooks, and blameless postmortems
+- Building **web apps & websites** — from UI to deploy
+- Shipping **AI agents** and tools that do real work, not just demos
+- Hardening **CI/CD** pipelines so releases stay boring (in a good way)
+- Chasing **SLOs**, runbooks, and blameless postmortems
 
 ---
 
@@ -136,21 +121,14 @@ When I'm not on-call, you'll find me tinkering with agents, refining deploy pipe
 
 > Pin your best repos on your GitHub profile — they'll show up here automatically.
 
-<!-- 
-Replace with your pinned repos or add links like:
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=sambassari&repo=your-repo&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9)](https://github.com/sambassari/your-repo)
--->
-
 ---
 
 ### Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://YOUR_BLOG_URL)
+[![LinkedIn](https://img.shields.io/badge/-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sambassari)
+[![X](https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/sambassari)
 
 </div>
 
@@ -161,11 +139,10 @@ Replace with your pinned repos or add links like:
 <!-- Uncomment after the snake workflow runs once (Actions → Generate Snake Animation) -->
 <!-- <img src="https://raw.githubusercontent.com/sambassari/sambassari/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" /> -->
 
-<!-- Colored terminal-style footer (Vercel SVG) -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=650&lines=root@sambassari:~%23+exit+0;...+session+closed+successfully;...+see+you+on+the+next+deploy" alt="Terminal session closed" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3000&pause=1000&color=999999&center=true&vCenter=true&width=500&lines=exit+0;session+closed" alt="Session closed" />
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:1a2332,100:3fb950&height=130&section=footer&text=0x00+%C2%B7+HALT+%C2%B7+LINK+CLOSED&fontAlign=50&fontSize=22&fontColor=3fb950&animation=twinkling" alt="Halt signal footer" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a1a,100:000000&height=80&section=footer&text=EOF&fontSize=28&fontColor=ffffff&animation=fadeIn" alt="EOF" />
 
 </div>
