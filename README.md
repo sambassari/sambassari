@@ -1,14 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:1a1a1a&height=80&section=header&text=sambassari&fontSize=42&fontColor=ffffff&animation=scaleIn" alt="sambassari" />
-
 <pre>
 <code>
-┌────────────────────────────────────────┐
-│  sambassari                            │
-│  software engineer · devops / sre      │
-│  apps · websites · apis · ai agents    │
-└────────────────────────────────────────┘
+      ██████╗  ██████╗  ██╗   ██╗  ██████╗  ██████╗   ██████╗
+      ██╔══██╗ ██╔════╝ ██╗   ██╗ ██╔═══██╗ ██╔══██╗ ██╔════╝
+      ██║  ██║ █████╗   ██╗   ██╗ ██║   ██║ ██████╔╝ ╚█████╗
+      ██║  ██║ ██╔══╝   ╚██╗ ██╔╝ ██║   ██║ ██╔═══╝   ╚═══██╗
+      ██████╔╝ ██████╗   ╚████╔╝  ╚██████╔╝ ██║      ██████╔╝
+      ╚═════╝  ╚═════╝    ╚═══╝    ╚═════╝  ╚═╝      ╚═════╝
+                    // SOFTWARE · SRE · AI AGENTS //
+
+╔══════════════════════════════════════════════════════════╗
+║  root@sambassari:~# whoami                               ║
+║  > sam — software engineer · devops / sre                ║
+║                                                          ║
+║  root@sambassari:~# cat /etc/builds                      ║
+║  > apps · websites · apis · ai agents                    ║
+║                                                          ║
+║  root@sambassari:~# uptime                               ║
+║  > ship fast. observe everything. break staging, not prod. ║
+╚══════════════════════════════════════════════════════════╝
 </code>
 </pre>
 
@@ -139,10 +150,41 @@ When I'm not on-call, you'll find me tinkering with agents, refining deploy pipe
 <!-- Uncomment after the snake workflow runs once (Actions → Generate Snake Animation) -->
 <!-- <img src="https://raw.githubusercontent.com/sambassari/sambassari/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" /> -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3000&pause=1000&color=999999&center=true&vCenter=true&width=500&lines=exit+0;session+closed" alt="Session closed" />
+<pre>
+<code>
+ 00 01011101▓1001110000 011110 ░110 11▓0000100001010 ▒  ░ 011 1 001110
+░00011101█0░ ▒0 1110░▒11100001101▓11 00 00100 100 10111 1█110 0 111011
+1100100 001001▒0110110 1 0 1█011101▓0001111 ░00010101 100001▓█ 1111011
 
-<br/>
+      ___           ___           ___
+     /\  \         /\  \         /\__\
+    /::\  \       /::\  \       /::|  |
+   /:/\ \  \     /:/\:\  \     /:|:|  |
+  _\:\~\ \  \   /::\~\:\  \   /:/|:|__|__
+ /\ \:\ \ \__\ /:/\:\ \:\__\ /:/ |::::\__\
+ \:\ \:\ \/__/ \/__\:\/:/  / \/__/~~/:/  /
+  \:\ \:\__\        \::/  /        /:/  /
+   \:\/:/  /        /:/  /        /:/  /
+    \::/  /        /:/  /        /:/  /
+     \/__/         \/__/         \/__/
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a1a,100:000000&height=80&section=footer&text=EOF&fontSize=28&fontColor=ffffff&animation=fadeIn" alt="EOF" />
+███████╗ ██████╗ ███████╗
+██╔════╝██╔═══██╗██╔════╝
+█████╗  ██║   ██║█████╗
+██╔══╝  ██║   ██║██╔══╝
+███████╗╚██████╔╝██║
+╚══════╝ ╚═════╝ ╚═╝
+
+╔══════════════════════════════════════════════════════════╗
+║  0xEOF · session closed                                   ║
+║                                                          ║
+║  root@sambassari:~# exit 0                               ║
+║  > link closed. reconnect on next push.                  ║
+╚══════════════════════════════════════════════════════════╝
+
+10▓11111█0111001 010110111110101 ░0111110 1▓10▓0▒0000 ▒ 11001011░0110
+01010101 00101110 01000101 01001110 01000100 00101110 01010100 01010010 01000001 01001101 01001001 01001110 01000001 01010100 01000101 01000100
+</code>
+</pre>
 
 </div>
